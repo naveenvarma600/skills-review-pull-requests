@@ -15,6 +15,7 @@ _Collaborate and work together on GitHub._
 
 <!--
   <<< Author notes: Step 5 >>>
+```hmm
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
